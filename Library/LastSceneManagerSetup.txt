@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Karen/OneDrive/uwb/Summer 2016/DFL/duplicate-prototype_SourceTree/Assets/Levels/Level1.unity
+  isLoaded: 1
+  isActive: 1
